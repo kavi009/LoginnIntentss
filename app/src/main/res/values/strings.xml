@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LoginnIntentss</string>
+     <string name="title_activity_user">UserActivity</string>
+    <!--<string name="login_text">Login Page</string>
+    <string name="username_text">User Name</string>
+    <string name="password_text">Password</string>
+    <string name="screen_page_text">"Welcome UserName"</string>-->
+</resources>
